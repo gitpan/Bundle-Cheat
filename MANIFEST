@@ -1,0 +1,9 @@
+Build.PL
+Changes
+lib/Bundle/Cheat.pm
+lib/Bundle/Cheat/Test.pm
+MANIFEST
+README
+t/00.load.t
+t/01.loadkids.t
+META.yml
